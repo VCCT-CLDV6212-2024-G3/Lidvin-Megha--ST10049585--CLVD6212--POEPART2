@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CLVD6212_POEPART2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7177",
+      "launchBrowser": false
+    }
+  }
+}
